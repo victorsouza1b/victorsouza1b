@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá! Seja Bem-Vindo ao meu perfil 👋
 
-<!--
-**victorsouza1b/victorsouza1b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Victor Rafael, aluno do Ensino Médio da Escola Estadual Engenheiro Isac Pereira Garcez de Dracena. 😧
 
-Here are some ideas to get you started:
+- Estou estudando nas aulas de Tecnologia pela Plataforma [Alura](https://www.alura.com.br);
+- Utilizo nestas aulas as programações atráves das plataformas [Scratch](https://scratch.mit.edu/) e [Javascript](https://editor.p5js.org/);
+- Vou usar este espaço para compartilhar alguns de meus projetos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📧
+
+00001085391371sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/MqTayCB_FyIAAAAC/exactly-right.gif)
+
+
